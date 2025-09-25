@@ -1,0 +1,15 @@
+MyCustomShell - User Manual for Stage 1
+
+INTERNAL COMMANDS:
+cd [directory]    - Change directory or show current
+clr               - Clear screen
+dir [directory]   - List directory contents
+environ           - Show environment variables
+echo <text>       - Display text with single spacing
+help              - Show this manual
+pause             - Pause shell
+quit              - Exit shell
+
+BATCH MODE:
+Execute commands from file:
+./customshell batchfile.txt
